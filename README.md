@@ -35,5 +35,5 @@ Caitlyn-Graves-Jinx-Kalista-Lucian-Sivir-Vayne-Xerath-Ashe-Corki
 # EzAio:
 Ashe.Draven.Ezreal.Jhin.Jinx.Kalista.Kaisa.KatarinaLucian.Tristana.Twitch.Vayne
 
-# SotalAIO:
+# SalzAIO:
 Aatrox, Bard, Gnar, Gragas, Ivern, Nasus, Nocturne, Pyke, Singed, TahmKench, Thresh
