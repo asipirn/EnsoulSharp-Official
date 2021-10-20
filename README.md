@@ -37,7 +37,6 @@ Ashe.Draven.Ezreal.Jhin.Jinx.Kalista.Kaisa.KatarinaLucian.Tristana.Twitch.Vayne
 
 # SalzAIO:
 Aatrox, Bard, Gnar, Gragas, Ivern, Nasus, Nocturne, Pyke, Singed, TahmKench, Thresh
-
    * Additional info:
         * Official website: https://ma9ngon.blogspot.com/
         * Github: https://github.com/ma9ngon
