@@ -18,7 +18,7 @@ Sylas, Leesin, Aphelios, Velkoz, Viego, Jinx, Fiora, Xerath, Yasuo, Katarina, Bl
 Xin Zhao Illaoi Garen Renekton Mordekaiser Tryndamere Jayce Rumble cho'gath Urgot Kayle Gwen Anivia Taliyah Reksai Gangplank
 
 # ToxicAio:
-Annie Ashe Blitzcrank Brand Kassadin Khazix Kindred Kogmaw Morgana Lux Rengar Samira Tryndamere Vex Vladimir Yone Ziggs Kennen
+Annie Ashe Blitzcrank Brand Kassadin Khazix Kindred Kogmaw Morgana Lux Rengar Samira Tryndamere Vex Vladimir Yone Ziggs Kennen Added Lucian (Beta bugs can happen)
 
 # PerfectAio:
 Yone, Kindred, LeeSin, Tristan, Wayne, Akshan, Irelia Yasuo, Katarina, Thresh, Twitch, Samira, Kalista, Kaisa Xerath, Ezreal, Jinx, Riven, Syndra, TwistedFate
